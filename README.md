@@ -4,4 +4,7 @@
 ## 使用方法.
 1、引入js文件
 <script src="./camera_class.js" />
-2、const camera = new Camera();camera.addEvent(className);通过addEvent方法给按钮绑定点击事件，随后点击按钮就可以了。
+2、
+  const camera = new Camera();
+  camera.addEvent(className);
+  通过addEvent方法给按钮绑定点击事件，随后点击按钮就可以了。
